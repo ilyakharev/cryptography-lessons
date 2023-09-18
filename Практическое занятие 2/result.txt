@@ -5,9 +5,9 @@ MD5 исходной строки в 16-ой системе: F01071EC497778EF32C
 
 Ошибки 1 кратности
 
-Строка: So_be_or_not_to_be?_This_is_a_question
-MD5: E6626D09FC0B3BCE5C3CA627CF4D716B
-Кодовое расстояние: 64
+Строка: Uo_be_or_not_to_be?_This_is_a_question
+MD5: D6EDBE7DC0650900512E59601EF0349C
+Кодовое расстояние: 74
 
 Строка: Tn_be_or_not_to_be?_This_is_a_question
 MD5: A9AB241547AF4DC180BB51A32C69ADE4
@@ -17,9 +17,9 @@ MD5: A9AB241547AF4DC180BB51A32C69ADE4
 MD5: 4B8B021865BF20AF26404E1A76907D5B
 Кодовое расстояние: 63
 
-Строка: To_ae_or_not_to_be?_This_is_a_question
-MD5: D0F1FAC1576A4F91C290CBDAD9B4B9B5
-Кодовое расстояние: 57
+Строка: To_ce_or_not_to_be?_This_is_a_question
+MD5: DECAC7DB10AA8A961F48BD5AF93119B8
+Кодовое расстояние: 69
 
 Строка: To_bd_or_not_to_be?_This_is_a_question
 MD5: FB939377E51EE96A2F675CA88F87B05F
@@ -33,37 +33,37 @@ MD5: 93EB081042472FD25B8FC948CF30658A
 MD5: C70BAE66961892AE8DC8714BC476EC67
 Кодовое расстояние: 73
 
-Строка: To_be_oq_not_to_be?_This_is_a_question
-MD5: B455C4E29E7802989F252760D6DE56E8
-Кодовое расстояние: 61
+Строка: To_be_os_not_to_be?_This_is_a_question
+MD5: 14DB52F807DC92ADC577D097DB465479
+Кодовое расстояние: 64
 
 Строка: To_be_or^not_to_be?_This_is_a_question
 MD5: 03A65FDEEA8A2670D4A8154B678DBD52
 Кодовое расстояние: 77
 
-Строка: To_be_or_mot_to_be?_This_is_a_question
-MD5: D3EECF1A3EF333AB2CEBB964CCD3D159
-Кодовое расстояние: 67
+Строка: To_be_or_oot_to_be?_This_is_a_question
+MD5: A5CF2B97D36DF33FFB230299CE8AB80D
+Кодовое расстояние: 64
 
 Строка: To_be_or_nnt_to_be?_This_is_a_question
 MD5: B490FAD0CF42734EF2E087B178ADA835
 Кодовое расстояние: 47
 
-Строка: To_be_or_nos_to_be?_This_is_a_question
-MD5: 4D3BF4D2C018F58804892B523C56C512
-Кодовое расстояние: 68
+Строка: To_be_or_nou_to_be?_This_is_a_question
+MD5: AF33488C7EE48326FB5767B880BD3313
+Кодовое расстояние: 67
 
-Среднее: 65
-СКО: 8.54400374531753
+Среднее: 67
+СКО: 8.29019135649309
 Min: 47
 Max: 77
 
 
 Ошибки 9 кратности
 
-Строка: So_be_or_not_to_be?_This_is_a_question
-MD5: E6626D09FC0B3BCE5C3CA627CF4D716B
-Кодовое расстояние: 64
+Строка: Uo_be_or_not_to_be?_This_is_a_question
+MD5: D6EDBE7DC0650900512E59601EF0349C
+Кодовое расстояние: 74
 
 Строка: Tn_be_or_not_to_be?_This_is_a_question
 MD5: A9AB241547AF4DC180BB51A32C69ADE4
@@ -73,9 +73,9 @@ MD5: A9AB241547AF4DC180BB51A32C69ADE4
 MD5: 4B8B021865BF20AF26404E1A76907D5B
 Кодовое расстояние: 63
 
-Строка: To_ae_or_not_to_be?_This_is_a_question
-MD5: D0F1FAC1576A4F91C290CBDAD9B4B9B5
-Кодовое расстояние: 57
+Строка: To_ce_or_not_to_be?_This_is_a_question
+MD5: DECAC7DB10AA8A961F48BD5AF93119B8
+Кодовое расстояние: 69
 
 Строка: To_bd_or_not_to_be?_This_is_a_question
 MD5: FB939377E51EE96A2F675CA88F87B05F
@@ -89,37 +89,37 @@ MD5: 93EB081042472FD25B8FC948CF30658A
 MD5: C70BAE66961892AE8DC8714BC476EC67
 Кодовое расстояние: 73
 
-Строка: To_be_oq_not_to_be?_This_is_a_question
-MD5: B455C4E29E7802989F252760D6DE56E8
-Кодовое расстояние: 61
+Строка: To_be_os_not_to_be?_This_is_a_question
+MD5: 14DB52F807DC92ADC577D097DB465479
+Кодовое расстояние: 64
 
 Строка: To_be_or^not_to_be?_This_is_a_question
 MD5: 03A65FDEEA8A2670D4A8154B678DBD52
 Кодовое расстояние: 77
 
-Строка: To_be_or_mot_to_be?_This_is_a_question
-MD5: D3EECF1A3EF333AB2CEBB964CCD3D159
-Кодовое расстояние: 67
+Строка: To_be_or_oot_to_be?_This_is_a_question
+MD5: A5CF2B97D36DF33FFB230299CE8AB80D
+Кодовое расстояние: 64
 
 Строка: To_be_or_nnt_to_be?_This_is_a_question
 MD5: B490FAD0CF42734EF2E087B178ADA835
 Кодовое расстояние: 47
 
-Строка: To_be_or_nos_to_be?_This_is_a_question
-MD5: 4D3BF4D2C018F58804892B523C56C512
-Кодовое расстояние: 68
+Строка: To_be_or_nou_to_be?_This_is_a_question
+MD5: AF33488C7EE48326FB5767B880BD3313
+Кодовое расстояние: 67
 
-Среднее: 65
-СКО: 8.54400374531753
+Среднее: 67
+СКО: 8.29019135649309
 Min: 47
 Max: 77
 
 
 Ошибки 19 кратности
 
-Строка: So_be_or_not_to_be?_This_is_a_question
-MD5: E6626D09FC0B3BCE5C3CA627CF4D716B
-Кодовое расстояние: 64
+Строка: Uo_be_or_not_to_be?_This_is_a_question
+MD5: D6EDBE7DC0650900512E59601EF0349C
+Кодовое расстояние: 74
 
 Строка: Tn_be_or_not_to_be?_This_is_a_question
 MD5: A9AB241547AF4DC180BB51A32C69ADE4
@@ -129,9 +129,9 @@ MD5: A9AB241547AF4DC180BB51A32C69ADE4
 MD5: 4B8B021865BF20AF26404E1A76907D5B
 Кодовое расстояние: 63
 
-Строка: To_ae_or_not_to_be?_This_is_a_question
-MD5: D0F1FAC1576A4F91C290CBDAD9B4B9B5
-Кодовое расстояние: 57
+Строка: To_ce_or_not_to_be?_This_is_a_question
+MD5: DECAC7DB10AA8A961F48BD5AF93119B8
+Кодовое расстояние: 69
 
 Строка: To_bd_or_not_to_be?_This_is_a_question
 MD5: FB939377E51EE96A2F675CA88F87B05F
@@ -145,27 +145,27 @@ MD5: 93EB081042472FD25B8FC948CF30658A
 MD5: C70BAE66961892AE8DC8714BC476EC67
 Кодовое расстояние: 73
 
-Строка: To_be_oq_not_to_be?_This_is_a_question
-MD5: B455C4E29E7802989F252760D6DE56E8
-Кодовое расстояние: 61
+Строка: To_be_os_not_to_be?_This_is_a_question
+MD5: 14DB52F807DC92ADC577D097DB465479
+Кодовое расстояние: 64
 
 Строка: To_be_or^not_to_be?_This_is_a_question
 MD5: 03A65FDEEA8A2670D4A8154B678DBD52
 Кодовое расстояние: 77
 
-Строка: To_be_or_mot_to_be?_This_is_a_question
-MD5: D3EECF1A3EF333AB2CEBB964CCD3D159
-Кодовое расстояние: 67
+Строка: To_be_or_oot_to_be?_This_is_a_question
+MD5: A5CF2B97D36DF33FFB230299CE8AB80D
+Кодовое расстояние: 64
 
 Строка: To_be_or_nnt_to_be?_This_is_a_question
 MD5: B490FAD0CF42734EF2E087B178ADA835
 Кодовое расстояние: 47
 
-Строка: To_be_or_nos_to_be?_This_is_a_question
-MD5: 4D3BF4D2C018F58804892B523C56C512
-Кодовое расстояние: 68
+Строка: To_be_or_nou_to_be?_This_is_a_question
+MD5: AF33488C7EE48326FB5767B880BD3313
+Кодовое расстояние: 67
 
-Среднее: 65
-СКО: 8.54400374531753
+Среднее: 67
+СКО: 8.29019135649309
 Min: 47
 Max: 77

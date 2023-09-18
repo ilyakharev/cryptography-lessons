@@ -151,7 +151,7 @@ public class Application
         byte[] result = bytes;
         for (int j = 0; j < count; j++)
         {
-            result[offset + j] = (byte)((byte)bytes[offset + j] - 1);
+            result[offset + j] = (byte)((byte)bytes[offset + j] ^ 1);
         }
         return result;
     }
