@@ -61,111 +61,111 @@ Max: 77
 
 Ошибки 9 кратности
 
-Строка: Uo_be_or_not_to_be?_This_is_a_question
-MD5: D6EDBE7DC0650900512E59601EF0349C
-Кодовое расстояние: 74
-
-Строка: Tn_be_or_not_to_be?_This_is_a_question
-MD5: A9AB241547AF4DC180BB51A32C69ADE4
-Кодовое расстояние: 76
-
-Строка: To^be_or_not_to_be?_This_is_a_question
-MD5: 4B8B021865BF20AF26404E1A76907D5B
-Кодовое расстояние: 63
-
-Строка: To_ce_or_not_to_be?_This_is_a_question
-MD5: DECAC7DB10AA8A961F48BD5AF93119B8
-Кодовое расстояние: 69
-
-Строка: To_bd_or_not_to_be?_This_is_a_question
-MD5: FB939377E51EE96A2F675CA88F87B05F
+Строка: Un^cd^ns^not_to_be?_This_is_a_question
+MD5: B856B241A8AFA6F6686CB149648A98F0
 Кодовое расстояние: 61
 
-Строка: To_be^or_not_to_be?_This_is_a_question
-MD5: 93EB081042472FD25B8FC948CF30658A
-Кодовое расстояние: 71
-
-Строка: To_be_nr_not_to_be?_This_is_a_question
-MD5: C70BAE66961892AE8DC8714BC476EC67
-Кодовое расстояние: 73
-
-Строка: To_be_os_not_to_be?_This_is_a_question
-MD5: 14DB52F807DC92ADC577D097DB465479
+Строка: Tn^cd^ns^oot_to_be?_This_is_a_question
+MD5: CA81E123FDF730B44ED55219F77178CA
 Кодовое расстояние: 64
 
-Строка: To_be_or^not_to_be?_This_is_a_question
-MD5: 03A65FDEEA8A2670D4A8154B678DBD52
-Кодовое расстояние: 77
+Строка: To^cd^ns^ont_to_be?_This_is_a_question
+MD5: 105ED56E38BC9C2AD99F179A5A92F906
+Кодовое расстояние: 62
 
-Строка: To_be_or_oot_to_be?_This_is_a_question
-MD5: A5CF2B97D36DF33FFB230299CE8AB80D
+Строка: To_cd^ns^onu_to_be?_This_is_a_question
+MD5: C3F3D2512AF478CD7391ACB03B305577
+Кодовое расстояние: 57
+
+Строка: To_bd^ns^onu^to_be?_This_is_a_question
+MD5: 181B7089CFAAAB10E1EEF9A5F5B34BF9
 Кодовое расстояние: 64
 
-Строка: To_be_or_nnt_to_be?_This_is_a_question
-MD5: B490FAD0CF42734EF2E087B178ADA835
-Кодовое расстояние: 47
+Строка: To_be^ns^onu^uo_be?_This_is_a_question
+MD5: A241E22D4B3B12A0A91DD9B2751B4284
+Кодовое расстояние: 57
 
-Строка: To_be_or_nou_to_be?_This_is_a_question
-MD5: AF33488C7EE48326FB5767B880BD3313
-Кодовое расстояние: 67
+Строка: To_be_ns^onu^un_be?_This_is_a_question
+MD5: 4D492FA54EC12ECD3CDBA2DA8824436E
+Кодовое расстояние: 63
 
-Среднее: 67
-СКО: 8.29019135649309
-Min: 47
-Max: 77
+Строка: To_be_os^onu^un^be?_This_is_a_question
+MD5: 5892CD57D7E0EE49C02FCA5FB2B1364B
+Кодовое расстояние: 74
+
+Строка: To_be_or^onu^un^ce?_This_is_a_question
+MD5: C885B358BC598A97F17090E227DC0785
+Кодовое расстояние: 65
+
+Строка: To_be_or_onu^un^cd?_This_is_a_question
+MD5: EC9DD5EA153E297C767DCC911702D633
+Кодовое расстояние: 55
+
+Строка: To_be_or_nnu^un^cd>_This_is_a_question
+MD5: 378C90FF8BFF5F540FD717FBB068C487
+Кодовое расстояние: 60
+
+Строка: To_be_or_nou^un^cd>^This_is_a_question
+MD5: 3272681F73132BD60E4BC74B580A9C6E
+Кодовое расстояние: 61
+
+Среднее: 61
+СКО: 5.018148879997303
+Min: 55
+Max: 74
 
 
 Ошибки 19 кратности
 
-Строка: Uo_be_or_not_to_be?_This_is_a_question
-MD5: D6EDBE7DC0650900512E59601EF0349C
-Кодовое расстояние: 74
+Строка: Un^cd^ns^onu^un^cd>_This_is_a_question
+MD5: 1B7D421AB07F471794A6974AFEF85FB9
+Кодовое расстояние: 70
 
-Строка: Tn_be_or_not_to_be?_This_is_a_question
-MD5: A9AB241547AF4DC180BB51A32C69ADE4
-Кодовое расстояние: 76
+Строка: Tn^cd^ns^onu^un^cd>^This_is_a_question
+MD5: 6A5DB1D3835AF3CF7B6D2A65CDD9A6CF
+Кодовое расстояние: 58
 
-Строка: To^be_or_not_to_be?_This_is_a_question
-MD5: 4B8B021865BF20AF26404E1A76907D5B
-Кодовое расстояние: 63
-
-Строка: To_ce_or_not_to_be?_This_is_a_question
-MD5: DECAC7DB10AA8A961F48BD5AF93119B8
-Кодовое расстояние: 69
-
-Строка: To_bd_or_not_to_be?_This_is_a_question
-MD5: FB939377E51EE96A2F675CA88F87B05F
-Кодовое расстояние: 61
-
-Строка: To_be^or_not_to_be?_This_is_a_question
-MD5: 93EB081042472FD25B8FC948CF30658A
-Кодовое расстояние: 71
-
-Строка: To_be_nr_not_to_be?_This_is_a_question
-MD5: C70BAE66961892AE8DC8714BC476EC67
+Строка: To^cd^ns^onu^un^cd>^Uhis_is_a_question
+MD5: 8CECE8024F901551775DF6165771053E
 Кодовое расстояние: 73
 
-Строка: To_be_os_not_to_be?_This_is_a_question
-MD5: 14DB52F807DC92ADC577D097DB465479
+Строка: To_cd^ns^onu^un^cd>^Uiis_is_a_question
+MD5: DD76DDE217F225B25175077DE49BBA0F
+Кодовое расстояние: 61
+
+Строка: To_bd^ns^onu^un^cd>^Uihs_is_a_question
+MD5: E0F7EAFAB4793AF264329C84C32FC3E0
 Кодовое расстояние: 64
 
-Строка: To_be_or^not_to_be?_This_is_a_question
-MD5: 03A65FDEEA8A2670D4A8154B678DBD52
-Кодовое расстояние: 77
+Строка: To_be^ns^onu^un^cd>^Uihr_is_a_question
+MD5: 26128FABBAB5DE6873ABAFB899CE1EA3
+Кодовое расстояние: 60
 
-Строка: To_be_or_oot_to_be?_This_is_a_question
-MD5: A5CF2B97D36DF33FFB230299CE8AB80D
+Строка: To_be_ns^onu^un^cd>^Uihr^is_a_question
+MD5: AE9EFBCE6A2F073C1C29664F77522AAB
+Кодовое расстояние: 65
+
+Строка: To_be_os^onu^un^cd>^Uihr^hs_a_question
+MD5: A7F0397E3FD2A42048175B2D10738EB0
+Кодовое расстояние: 70
+
+Строка: To_be_or^onu^un^cd>^Uihr^hr_a_question
+MD5: 05C48CD9526F6FC1DA177B5E968CB8D5
 Кодовое расстояние: 64
 
-Строка: To_be_or_nnt_to_be?_This_is_a_question
-MD5: B490FAD0CF42734EF2E087B178ADA835
-Кодовое расстояние: 47
+Строка: To_be_or_onu^un^cd>^Uihr^hr^a_question
+MD5: 121B0BD55BD2E6AAB8889807937A8270
+Кодовое расстояние: 61
 
-Строка: To_be_or_nou_to_be?_This_is_a_question
-MD5: AF33488C7EE48326FB5767B880BD3313
-Кодовое расстояние: 67
+Строка: To_be_or_nnu^un^cd>^Uihr^hr^`_question
+MD5: CB08A4ED1E91BBE526DA2E6E5C199959
+Кодовое расстояние: 60
 
-Среднее: 67
-СКО: 8.29019135649309
-Min: 47
-Max: 77
+Строка: To_be_or_nou^un^cd>^Uihr^hr^`^question
+MD5: 0FAD1AE132A722D7C01BA213387E972D
+Кодовое расстояние: 73
+
+Среднее: 64
+СКО: 5.40201982427112
+Min: 58
+Max: 73

@@ -35,7 +35,7 @@ public class Application
             {
                 Console.WriteLine();
                 sourceBytes = ASCIIEncoding.ASCII.GetBytes(sourceText);
-                noised = noice(sourceBytes, 1, i);
+                noised = noice(sourceBytes, count, i);
                 noisedHash = CSP.ComputeHash(noised);
                 diffs[i] = codeDistance(sourceHash, noisedHash);
                 Console.WriteLine("Строка: " + ASCIIEncoding.ASCII.GetString(noised));
